@@ -1,7 +1,7 @@
 ---
 path: js-tricks-1
 date: 2021-04-26T23:56:36.592Z
-title: 10 JavaScript Tricks
+title: 5 JavaScript Tricks - 01
 description: Javascript Series
 ---
 ## 1 `??` operator
